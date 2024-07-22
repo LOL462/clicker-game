@@ -1,0 +1,26 @@
+
+QWidget{
+    background-color: rgb(0, 30, 163);
+}
+QPushButton{
+    background-color: chartreuse;
+    width: 260px;
+    height: 40px;
+    border: 2px solid rgb(0, 0, 0);
+    font-size: 25px;
+}
+QPushButton:hover{
+    background-color: rgb(19, 112, 106);
+    color: rgb(255, 255, 255);
+}
+QLineEdit{
+    border: 2px solid rgb(0, 0, 0);
+    width: 130px;
+    height: 30px;
+    font-size: 25px;
+}
+QLabel{
+    font-size: 25px;
+    color: rgb(255, 255, 0);
+    
+}
